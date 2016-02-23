@@ -1,13 +1,13 @@
 # EXP60: EquationSolver
 
 ## Challenge
-**Description:** I created a program for an unsolveable equation system. My friend somehow forced it to solve the equations. Can you tell me how he did it?
+**Description:** I created a program for an unsolvable equation system. My friend somehow forced it to solve the equations. Can you tell me how he did it?
 
 **Service:** 188.166.133.53:12049
 
 ## Solution
 
-### Testing for Interget Overflow
+### Testing for Integer Overflow
 We connect to the server with netcat and throw a large integer to test for integer overflow:
 
 ```
