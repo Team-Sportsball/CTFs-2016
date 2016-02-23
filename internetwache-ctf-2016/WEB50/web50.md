@@ -24,6 +24,7 @@ function myhash($str) {
 ```
 
 **Service:** https://mess-of-hash.ctf.internetwache.org/
+
 ![](web50.png)
 
 ## Solution
